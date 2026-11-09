@@ -1,5 +1,12 @@
 # Customer Churn Analysis
 
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+
 ## Project Overview
 
 This project explores customer churn in a telecommunications company using Python and exploratory data analysis (EDA).
